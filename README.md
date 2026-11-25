@@ -1,5 +1,12 @@
-Gravador TDS
+Instaladores do Gravador TDS, o gravador de tela da The Dream School.
 
-aqui ficam so os instaladores do gravador tds, o codigo fica em outro lugar.
+Mac (Apple Silicon): https://github.com/VitorTheDream/gravador-tds-releases/releases/latest/download/Gravador-TDS-mac.dmg
+Windows: https://github.com/VitorTheDream/gravador-tds-releases/releases/latest/download/Gravador-TDS-windows.exe
 
-pra instalar baixa o arquivo da ultima versao em Releases: .dmg pra mac, .exe pra windows. depois disso o app se atualiza sozinho.
+No Mac, abre o .dmg e arrasta o Gravador TDS pra pasta Aplicativos. Na primeira vez o macOS pode bloquear porque o app não é da App Store. Se isso acontecer, vai em Ajustes do Sistema, Privacidade e Segurança, e clica em Abrir Mesmo Assim.
+
+No Windows é só rodar o .exe. Se aparecer o aviso do SmartScreen, clica em Mais informações e depois em Executar assim mesmo.
+
+Depois de instalado o app se atualiza sozinho. Quando sai versão nova ele baixa sem atrapalhar e avisa, aí é só reiniciar. Se preferir, ela entra na próxima vez que você fechar o app.
+
+As versões anteriores ficam em https://github.com/VitorTheDream/gravador-tds-releases/releases
